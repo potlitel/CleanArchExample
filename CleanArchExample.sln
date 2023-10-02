@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Frameworks And Drivers",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Entities", "NorthWind.Entities\NorthWind.Entities.csproj", "{17E25C40-D186-4493-A3F0-C0B1170D725F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Sales.BusinessObjetcs", "NorthWind.Sales.BusinessObjetcs\NorthWind.Sales.BusinessObjetcs.csproj", "{09CA8DBF-C56C-4FC6-8F98-245861310CDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{17E25C40-D186-4493-A3F0-C0B1170D725F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17E25C40-D186-4493-A3F0-C0B1170D725F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17E25C40-D186-4493-A3F0-C0B1170D725F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CA8DBF-C56C-4FC6-8F98-245861310CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CA8DBF-C56C-4FC6-8F98-245861310CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CA8DBF-C56C-4FC6-8F98-245861310CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CA8DBF-C56C-4FC6-8F98-245861310CDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{17E25C40-D186-4493-A3F0-C0B1170D725F} = {D450CDE7-B72E-4E8D-AA72-59A09ED37993}
+		{09CA8DBF-C56C-4FC6-8F98-245861310CDA} = {28915822-6DE3-4D62-B16F-C489EE005A80}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AEA22E55-2B4C-4790-A935-574D09290BF4}
